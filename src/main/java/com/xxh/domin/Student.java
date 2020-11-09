@@ -7,4 +7,5 @@ public class Student {
     private String address;
     private String phone;
     private Integer num;
+    private Integer age;
 }
